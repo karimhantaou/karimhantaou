@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Karim Hantaou
 
-<!--
-**karimhantaou/karimhantaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **Master of Science** à [Epitech Montpellier](https://www.epitech.eu/)  
+💻 Développeur **Full Stack**, avec une **spécialisation back-end** et web  
+🚀 Actuellement, je travaille surtout avec **React**, **JavaScript**, et **p5.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences techniques
+
+- **Back-end** : Node.js, Express, SQL, MongoDB
+- **Front-end** : React, JavaScript (ES6+), HTML5, CSS3
+- **Outils & Dev** : Git, GitHub, VS Code, Postman
+- **Autres** : p5.js (creative coding), projets en équipe, méthodologies agiles
+
+---
+
+## 🌱 En ce moment
+
+- J’approfondis mes connaissances sur React et les bonnes pratiques de développement front
+- Je travaille sur des projets mêlant **code créatif** et **expériences interactives** avec p5.js
+
+---
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ton-lien-ici)
+- ✉️ karim.hantaou@example.com *(remplace par ton mail si tu veux le mettre)*
+- 🌐 [Mon portfolio](https://ton-portfolio.com) *(si tu en as un)*
+
+---
+
+Merci d’être passé par ici 👨‍💻
