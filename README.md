@@ -10,7 +10,7 @@
 
 - **Back-end** : Node.js, Express, SQL, MongoDB
 - **Front-end** : React, JavaScript (ES6+), HTML5, CSS3
-- **Outils & Dev** : Git, GitHub, VS Code, Postman
+- **Outils & Dev** : Git, GitHub, VS Code
 - **Autres** : p5.js (creative coding), projets en équipe, méthodologies agiles
 
 ---
@@ -24,9 +24,9 @@
 
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-lien-ici)
-- ✉️ karim.hantaou@example.com *(remplace par ton mail si tu veux le mettre)*
-- 🌐 [Mon portfolio](https://ton-portfolio.com) *(si tu en as un)*
+- 💼 [LinkedIn](https://fr.linkedin.com/in/karim-hantaou)
+- ✉️ karim.hantaou@gmail.com
+- 🌐 [Mon portfolio](https://hantaoukarim.fr)
 
 ---
 
