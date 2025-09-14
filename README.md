@@ -8,7 +8,7 @@
 
 ## 🔧 Compétences techniques
 
-- **Back-end** : Node.js, Express, SQL, MongoDB
+- **Back-end** : Node.js, SQL, MySQL
 - **Front-end** : React, JavaScript (ES6+), HTML5, CSS3
 - **Outils & Dev** : Git, GitHub, VS Code
 - **Autres** : p5.js (creative coding), projets en équipe, méthodologies agiles
