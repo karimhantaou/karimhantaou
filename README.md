@@ -18,8 +18,7 @@
 ## 🌱 En ce moment
 
 - J’approfondis mes connaissances sur React et les bonnes pratiques de développement front
-- Je travaille sur des projets mêlant **code créatif** et **expériences interactives** avec p5.js
-
+- Je travaille sur des projets mêlant **creative coding** et **expériences interactives** avec p5.js
 ---
 
 ## 📫 Me contacter
