@@ -1,4 +1,7 @@
-<img width="1250" height="400" alt="Banner(1)" src="https://github.com/user-attachments/assets/1e78c1d0-1e5d-4851-b658-10bfb8a3805d" />
+<img width="1250" height="400" alt="Banner(3)" src="https://github.com/user-attachments/assets/f1eb32bf-e5b0-4ac9-8eed-07c7d626e054" />
+
+---
+
 
 🎓 Étudiant en **Master of Science** à [Epitech Montpellier](https://www.epitech.eu/)  
 💻 Développeur **Full Stack**, avec une **spécialisation back-end** et web  
