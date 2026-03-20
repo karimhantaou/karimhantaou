@@ -4,16 +4,16 @@
 
 
 🎓 Étudiant en **Master of Science** à [Epitech Montpellier](https://www.epitech.eu/)  
-💻 Développeur **Full Stack**, avec une **spécialisation back-end** et web  
-🚀 Actuellement, je travaille surtout avec **React**, **JavaScript**, et **p5.js**
+💻 Développeur **Full Stack**, avec une **spécialisation en web** 
+🚀 Actuellement, je travaille surtout avec **Nuxt**, **Typescript**, et **PostgreSQL**
 
 ---
 
 ## Compétences techniques
 
-- **Back-end** : Node js, Express Js SQL, MySQL
-- **Front-end** : React js, Vue js, JavaScript, HTML5, CSS3
-- **Outils & Dev** : Git, GitHub, VS Code, JetBrain
+- **Logiciel** : Java, C#, Python
+- **Web** : React js, Vue js, JavaScript, Typescript, Fastify, Express, HTML5, CSS3
+- **Outils & Dev** : Git, GitHub, VS Code, JetBrain, Docker
 - **Autres** : p5.js (creative coding), projets en équipe, méthodologies agiles
 
 ## Mes Frameworks Web
@@ -21,13 +21,6 @@
 <img width="1250" height="100" alt="Nouveau projet" src="https://github.com/user-attachments/assets/48e71100-1c29-4712-af5c-157696129626" />
 
 ---
-
-## En ce moment
-
-- J’approfondis mes connaissances sur Vue js pour le Front et Express js pour le Back.
-- Je travaille sur des projets mêlant **creative coding** et **expériences interactives** avec p5.js
----
-
 ## Me contacter
 
 - ✉️ karim.hantaou@gmail.com
