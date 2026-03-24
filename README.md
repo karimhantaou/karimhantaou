@@ -2,19 +2,11 @@
 
 ---
 
-
 🎓 Étudiant en **Master of Science** à [Epitech Montpellier](https://www.epitech.eu/)  
 💻 Développeur **Full Stack**, avec une **spécialisation en web** 
 🚀 Actuellement, je travaille surtout avec **Nuxt**, **Typescript**, et **PostgreSQL**
 
 ---
-
-## Compétences techniques
-
-- **Logiciel** : Java, C#, Python
-- **Web** : React js, Vue js, JavaScript, Typescript, Fastify, Express, HTML5, CSS3
-- **Outils & Dev** : Git, GitHub, VS Code, JetBrain, Docker
-- **Autres** : p5.js (creative coding), projets en équipe, méthodologies agiles
 
 ## Mes Frameworks Web
 
@@ -26,7 +18,3 @@
 - ✉️ karim.hantaou@gmail.com
 - 💼 [LinkedIn](https://fr.linkedin.com/in/karim-hantaou)
 - 🌐 [Mon portfolio](https://hantaoukarim.fr)
-
----
-
-Merci !
